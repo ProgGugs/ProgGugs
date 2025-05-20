@@ -4,8 +4,8 @@
 - 🤝 I’m looking to collaborate on various open source initiatives 
 
 <div>
-  <img height = 180em, src = "https://github-readme-stats.vercel.app/api?username=proggugs&show_icons=true&theme=vue-dark">
-  <img height = 180em, src = "https://github-readme-stats.vercel.app/api/top-langs/?username=proggugs&layout=compact&langs_count=5&size_weight=0.5&count_weight=0.5&theme=vue-dark">
+  <img height = 180em, src = "https://github-readme-stats.vercel.app/api?username=ProgGugs&show_icons=true&theme=vue-dark">
+  <img height = 180em, src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ProgGugs&layout=compact&langs_count=5&size_weight=0.5&count_weight=0.5&theme=vue-dark">
 </div>
 
 <div syle="display: inline_block"><br>
@@ -19,3 +19,5 @@
 <div>
  <a href= "https://www.linkedin.com/in/gustavo-emerick-dos-santos-32aba52a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/ProgGugs/ProgGugs/blob/output/github-contribution-grid-snake.svg)
