@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header.gif">
+<img align="center" alt="" src="./src/header2.gif">
 
 <div>
   <img height = 180em, src = "https://github-readme-stats.vercel.app/api?username=ProgGugs&show_icons=true&theme=blue_navy">
