@@ -7,8 +7,8 @@
 <img align="center" alt="" src="./src/header.gif">
 
 <div>
-  <img height = 180em, src = "https://github-readme-stats.vercel.app/api?username=ProgGugs&show_icons=true&theme=vue-dark">
-  <img height = 180em, src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ProgGugs&layout=compact&langs_count=5&size_weight=0.5&count_weight=0.5&theme=vue-dark">
+  <img height = 180em, src = "https://github-readme-stats.vercel.app/api?username=ProgGugs&show_icons=true&theme=blue_navy">
+  <img height = 180em, src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ProgGugs&layout=compact&langs_count=5&size_weight=0.5&count_weight=0.5&theme=blue_navy">
 </div>
 
 <div syle="display: inline_block"><br>
